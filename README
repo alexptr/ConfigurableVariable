@@ -1,0 +1,2 @@
+docker build -t configurablevarapp .
+docker run -p 10000:10000 -it configurablevarapp
